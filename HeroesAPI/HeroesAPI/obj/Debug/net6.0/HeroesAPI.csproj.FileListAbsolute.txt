@@ -1,0 +1,76 @@
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.AssemblyReference.cache
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.AssemblyInfoInputs.cache
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.AssemblyInfo.cs
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.CoreCompileInputs.cache
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.exe
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.deps.json
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.runtimeconfig.json
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.pdb
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.HeroesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HeroesAPI.props
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HeroesAPI.props
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HeroesAPI.props
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\scopedcss\bundle\HeroesAPI.styles.css
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.Up2Date
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\refint\HeroesAPI.dll
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.pdb
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.genruntimeconfig.cache
+C:\Users\cauan\OneDrive - Fundação de Ensino e Pesquisa de Itajubá\Área de Trabalho\Super-herois\.NET\HeroAPI\Heroes\HeroesAPI\obj\Debug\net6.0\ref\HeroesAPI.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.exe
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\HeroesAPI.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.HeroesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HeroesAPI.props
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HeroesAPI.props
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HeroesAPI.props
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\scopedcss\bundle\HeroesAPI.styles.css
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.Up2Date
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\refint\HeroesAPI.dll
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\HeroesAPI.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\Heroes\Heroes\HeroesAPI\obj\Debug\net6.0\ref\HeroesAPI.dll
