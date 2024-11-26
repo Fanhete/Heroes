@@ -1,1 +1,3 @@
 # Heroes
+
+Olá, me chamo Cauã. Desenvolvi o projeto com base nos meus conhecimentos e na pesquisa em fóruns sempre que surgiam dúvidas. Organizei o projeto em pastas para uma melhor estruturação, separando a lógica de negócio, o repositório responsável pela extração de dados e os controllers para implementar os endpoints. Utilizei o Entity Framework e optei pelo InMemory devido à minha maior familiaridade com essa abordagem. Criei as entidades com seus respectivos atributos conforme os requisitos do projeto. No front-end, utilizei CSS para o desenvolvimento visual, implementando redirecionamentos, como no caso do cadastro, e outras funcionalidades na página inicial.
