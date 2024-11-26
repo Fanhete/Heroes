@@ -1,0 +1,77 @@
+<mat-card>
+    <h1>{{btnTitulo}}</h1>
+
+  <form  [formGroup]="heroiForm" (ngSubmit)="submit()" #formDir="ngForm">
+  <input type="hidden" value="" formControlName="id">
+
+  <div class="input-box">
+    <mat-form-field>
+      <mat-label>Nome:</mat-label>
+      <input matInput id="nome" type="text" class="form-control text-dark" formControlName="nome" placeholder="Insira o Nome!" required>
+    </mat-form-field>
+  </div>
+
+  <div  class="input-box">
+    <mat-form-field>
+      <mat-label>Nome Heroi:</mat-label>
+         <input matInput id="nomeHeroi" type="text" class="form-control  text-dark" formControlName="nomeHeroi" placeholder="Insira o Nome Heroi!" required>
+     </mat-form-field>
+  </div>
+
+  <div class="input-box">
+    <mat-form-field appearance="outline">
+      <mat-label>Data de Nascimento</mat-label>
+      <input matInput id="dataNascimento" type="date" class="form-control  text-dark" formControlName="dataNascimento" placeholder="Selecione a data de nascimento" required />
+    </mat-form-field>
+  </div>
+
+  <div  class="input-box">
+    <mat-form-field>
+      <mat-label>Altura:</mat-label>
+         <input matInput id="altura" type="text" class="form-control  text-dark" formControlName="altura" placeholder="Insira o altura!" required>
+     </mat-form-field>
+  </div>
+
+  <div  class="input-box">
+    <mat-form-field>
+      <mat-label>Peso:</mat-label>
+         <input matInput id="peso" type="text" class="form-control  text-dark" formControlName="peso" placeholder="Insira o peso!" required>
+     </mat-form-field>
+  </div>
+
+  <!-- <div  class="input-box">
+  <mat-form-field>
+    <mat-label>Departamento:</mat-label>
+    <mat-select id="departamento" class="form-select "  formControlName="departamento" required>
+      <mat-option value="RH">RH</mat-option>
+      <mat-option value="Financeiro">Financeiro</mat-option>
+      <mat-option value="Compras">Compras</mat-option>
+      <mat-option value="Atendimento">Atendimento</mat-option>
+      <mat-option value="Zeladoria">Zeladoria</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+
+  </div>
+
+  <mat-form-field>
+    <mat-label>Turno</mat-label>
+    <mat-select id="turno" class="form-select"  formControlName="turno" required>
+      <mat-option value="Manha">Manha</mat-option>
+      <mat-option value="Tarde">Tarde</mat-option>
+      <mat-option value="Noite">Noite</mat-option>
+    </mat-select>
+  </mat-form-field> -->
+
+
+
+
+<div  class="btn-box">
+    <button type="submit" class="btn btn-success w-50" [disabled]="!heroiForm.valid"  mat-raised-button color="accent" >{{btnAcao}}</button>
+    <button class="btn btn-primary w-50" routerLink=""   mat-raised-button >Voltar</button>
+</div>
+
+
+</form>
+
+</mat-card>
